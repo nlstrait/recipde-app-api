@@ -1,2 +1,2 @@
 # recipde-app-api
-Recipde app api source code
+Recipe app api source code
